@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Cors
+gunicorn
+openai
+requests
+email-validator
+python-dotenv
